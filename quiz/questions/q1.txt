@@ -1,0 +1,8 @@
+int x = 3;
+printf("%d", x++ * ++x);
+
+A) Undefined behavior
+B) 15
+C) 12
+D) Compiler error
+

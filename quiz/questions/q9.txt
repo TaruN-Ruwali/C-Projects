@@ -1,0 +1,7 @@
+Q9. Which of the following is NOT an operating system?
+
+A) Linux
+B) Windows
+C) Oracle
+D) macOS
+

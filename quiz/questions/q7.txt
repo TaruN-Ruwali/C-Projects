@@ -1,0 +1,7 @@
+Q7. What is the LCM of 12 and 18?
+
+A) 24
+B) 54
+C) 48
+D) 36
+

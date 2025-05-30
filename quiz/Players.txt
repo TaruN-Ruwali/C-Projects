@@ -1,0 +1,13 @@
+Player Name             Correct     Incorrect       Score
+
+Tarun					20				0			20
+Rakshit					4				-8			-4
+Bipin					0				-10			-10
+Saksham					2				-9			-7
+Sarthak					0				-10			-10
+Gaurav					12				-4			8
+Ankit					14				-3			11
+Krishna					8				-6			2
+daksh					6				-7			-1
+gg					0				-10			-10
+race					10				-5			5

@@ -1,0 +1,16 @@
+ system("cls");
+                fm=fopen("q11.txt","r");
+                while((ch=getc(fm))!=EOF)
+                printf("%c",ch);
+                fclose(fm);
+                b=getch();
+                if(b=='a' || b=='A')
+                {
+                    printf("\nCorrect!!");
+                    countt=countt+2;
+                }
+                else
+                {
+                    printf("\nWrong!!");
+                    countf=countf-1;
+                }

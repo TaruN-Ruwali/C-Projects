@@ -1,0 +1,7 @@
+Q4. What does RAM stand for?
+
+A) Random Access Method
+B) Random Access Memory
+C) Read A Memory
+D) Rapid Action Module
+

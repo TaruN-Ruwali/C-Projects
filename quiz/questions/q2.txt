@@ -1,0 +1,7 @@
+A train travels 180 km in 3 hours. What is its average speed?
+
+A) 50 km/h
+B) 70 km/h
+C) 60 km/h
+D) 80 km/h
+
